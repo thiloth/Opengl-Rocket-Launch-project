@@ -1,5 +1,5 @@
 # Opengl-Rocket-Launch-project
-This is a opengl project.<br>
+This is a opengl project. <br>
 Rocket Launch Simulation using the OpenGL is done..
 <div align="center">
   <img src="https://github.com/thiloth/Opengl-Rocket-Launch-project/blob/main/OpenGL-Project-Rocket-Launch/Screenshots/Second.png" width="1000px"/>
